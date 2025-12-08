@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: af36428426177604bb8bb77eeb8efb1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6337288925570435535
+    second: PaintbrushProjectile_Spritesheet_0
+  - first:
+      213: 3825410306745083733
+    second: PaintbrushProjectile_Spritesheet_1
+  - first:
+      213: 6269217180809777147
+    second: PaintbrushProjectile_Spritesheet_2
+  - first:
+      213: 179500765425757544
+    second: PaintbrushProjectile_Spritesheet_3
+  - first:
+      213: 7384652040105598483
+    second: PaintbrushProjectile_Spritesheet_4
+  - first:
+      213: -3568736406970153698
+    second: PaintbrushProjectile_Spritesheet_5
+  - first:
+      213: -7730646687306385881
+    second: PaintbrushProjectile_Spritesheet_6
+  - first:
+      213: 1616435666056377515
+    second: PaintbrushProjectile_Spritesheet_7
+  - first:
+      213: 2238138573058569336
+    second: PaintbrushProjectile_Spritesheet_8
+  - first:
+      213: 612356670170572094
+    second: PaintbrushProjectile_Spritesheet_9
+  - first:
+      213: -5046489332992707186
+    second: PaintbrushProjectile_Spritesheet_10
+  - first:
+      213: -2417986979072981063
+    second: PaintbrushProjectile_Spritesheet_11
+  - first:
+      213: 742274644109059268
+    second: PaintbrushProjectile_Spritesheet_12
+  - first:
+      213: 376422944369977181
+    second: PaintbrushProjectile_Spritesheet_13
+  - first:
+      213: 5101777495675815375
+    second: PaintbrushProjectile_Spritesheet_14
+  - first:
+      213: 9083255567477035274
+    second: PaintbrushProjectile_Spritesheet_15
+  - first:
+      213: -3977003263776207053
+    second: PaintbrushProjectile_Spritesheet_16
+  - first:
+      213: 3323694232534178375
+    second: PaintbrushProjectile_Spritesheet_17
+  - first:
+      213: -2990572993840849253
+    second: PaintbrushProjectile_Spritesheet_18
+  - first:
+      213: -8841995299653199952
+    second: PaintbrushProjectile_Spritesheet_19
+  - first:
+      213: -3702051129969399462
+    second: PaintbrushProjectile_Spritesheet_20
+  - first:
+      213: -4137355145222790580
+    second: PaintbrushProjectile_Spritesheet_21
+  - first:
+      213: -3686066596835520261
+    second: PaintbrushProjectile_Spritesheet_22
+  - first:
+      213: -1522947133875120686
+    second: PaintbrushProjectile_Spritesheet_23
+  - first:
+      213: -7740895399840954296
+    second: PaintbrushProjectile_Spritesheet_24
+  - first:
+      213: 2998915624391102666
+    second: PaintbrushProjectile_Spritesheet_25
+  - first:
+      213: -1390228287020267842
+    second: PaintbrushProjectile_Spritesheet_26
+  - first:
+      213: -3801354839073898350
+    second: PaintbrushProjectile_Spritesheet_27
+  - first:
+      213: -539226930574431271
+    second: PaintbrushProjectile_Spritesheet_28
+  - first:
+      213: 3432962822391125797
+    second: PaintbrushProjectile_Spritesheet_29
+  - first:
+      213: 1360286757869857258
+    second: PaintbrushProjectile_Spritesheet_30
+  - first:
+      213: 710864070572906010
+    second: PaintbrushProjectile_Spritesheet_31
+  - first:
+      213: 4592377650573374696
+    second: PaintbrushProjectile_Spritesheet_32
+  - first:
+      213: 2799825676918992675
+    second: PaintbrushProjectile_Spritesheet_33
+  - first:
+      213: 4803275497919870297
+    second: PaintbrushProjectile_Spritesheet_34
+  - first:
+      213: -631445023439621117
+    second: PaintbrushProjectile_Spritesheet_35
+  - first:
+      213: -4185143986836874677
+    second: PaintbrushProjectile_Spritesheet_36
+  - first:
+      213: -5225016858302163805
+    second: PaintbrushProjectile_Spritesheet_37
+  - first:
+      213: 8305080291533603227
+    second: PaintbrushProjectile_Spritesheet_38
+  - first:
+      213: -4176648099822402834
+    second: PaintbrushProjectile_Spritesheet_39
+  - first:
+      213: -4613127130631255154
+    second: PaintbrushProjectile_Spritesheet_40
+  - first:
+      213: 2290027259110651203
+    second: PaintbrushProjectile_Spritesheet_41
+  - first:
+      213: 4617604414084231789
+    second: PaintbrushProjectile_Spritesheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PaintbrushProjectile_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1502
+        height: 1502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc984af83b292f750800000000000000
+      internalID: 6337288925570435535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintbrushProjectile_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 0
+        width: 1502
+        height: 1502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557a8a5f766961530800000000000000
+      internalID: 3825410306745083733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: febc7c25dc329bf4d997fe2337596901
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":1.0},"gridSpriteSize":{"x":1502.0,"y":1502.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PaintbrushProjectile_Spritesheet_0: 6337288925570435535
+      PaintbrushProjectile_Spritesheet_1: 3825410306745083733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

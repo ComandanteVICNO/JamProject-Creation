@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 0dff2baeff24b2945a5c113d16e9b997
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2452535028009297090
+    second: MatchaProjectile_Spritesheet_0
+  - first:
+      213: -5208617229006548867
+    second: MatchaProjectile_Spritesheet_1
+  - first:
+      213: 27130663719425421
+    second: MatchaProjectile_Spritesheet_2
+  - first:
+      213: 3716742175495228438
+    second: MatchaProjectile_Spritesheet_3
+  - first:
+      213: -6098718567148714862
+    second: MatchaProjectile_Spritesheet_4
+  - first:
+      213: -53312719742698952
+    second: MatchaProjectile_Spritesheet_5
+  - first:
+      213: -8919042723255209695
+    second: MatchaProjectile_Spritesheet_6
+  - first:
+      213: 5435549749615812994
+    second: MatchaProjectile_Spritesheet_7
+  - first:
+      213: -3360577779542038091
+    second: MatchaProjectile_Spritesheet_8
+  - first:
+      213: 5900997200488242914
+    second: MatchaProjectile_Spritesheet_9
+  - first:
+      213: 91782750745580715
+    second: MatchaProjectile_Spritesheet_10
+  - first:
+      213: -518493678317292517
+    second: MatchaProjectile_Spritesheet_11
+  - first:
+      213: 8840922210486103314
+    second: MatchaProjectile_Spritesheet_12
+  - first:
+      213: 7933427217601281179
+    second: MatchaProjectile_Spritesheet_13
+  - first:
+      213: 8593192132786848743
+    second: MatchaProjectile_Spritesheet_14
+  - first:
+      213: 4305168984371086170
+    second: MatchaProjectile_Spritesheet_15
+  - first:
+      213: 7427270119568157107
+    second: MatchaProjectile_Spritesheet_16
+  - first:
+      213: 2870231676530600679
+    second: MatchaProjectile_Spritesheet_17
+  - first:
+      213: 4473715158884422399
+    second: MatchaProjectile_Spritesheet_18
+  - first:
+      213: 1405637483351264743
+    second: MatchaProjectile_Spritesheet_19
+  - first:
+      213: -6911100569928756455
+    second: MatchaProjectile_Spritesheet_20
+  - first:
+      213: -7333855609365661875
+    second: MatchaProjectile_Spritesheet_21
+  - first:
+      213: -4279266379059971784
+    second: MatchaProjectile_Spritesheet_22
+  - first:
+      213: -6770844152288010457
+    second: MatchaProjectile_Spritesheet_23
+  - first:
+      213: -6307181109835690515
+    second: MatchaProjectile_Spritesheet_24
+  - first:
+      213: 4923785824854103247
+    second: MatchaProjectile_Spritesheet_25
+  - first:
+      213: -4648571904560393551
+    second: MatchaProjectile_Spritesheet_26
+  - first:
+      213: -8327942226069544079
+    second: MatchaProjectile_Spritesheet_27
+  - first:
+      213: 2601588672187946669
+    second: MatchaProjectile_Spritesheet_28
+  - first:
+      213: -3902538022111506701
+    second: MatchaProjectile_Spritesheet_29
+  - first:
+      213: 8024444696549339805
+    second: MatchaProjectile_Spritesheet_30
+  - first:
+      213: -7841118116600945088
+    second: MatchaProjectile_Spritesheet_31
+  - first:
+      213: -5186944465991306718
+    second: MatchaProjectile_Spritesheet_32
+  - first:
+      213: -2179189446212942929
+    second: MatchaProjectile_Spritesheet_33
+  - first:
+      213: -760304584058926496
+    second: MatchaProjectile_Spritesheet_34
+  - first:
+      213: -6678657780502663040
+    second: MatchaProjectile_Spritesheet_35
+  - first:
+      213: -9066914350323912981
+    second: MatchaProjectile_Spritesheet_36
+  - first:
+      213: -1823407359726754270
+    second: MatchaProjectile_Spritesheet_37
+  - first:
+      213: 3869700371720468083
+    second: MatchaProjectile_Spritesheet_38
+  - first:
+      213: 7479482698610970546
+    second: MatchaProjectile_Spritesheet_39
+  - first:
+      213: 3497300043866585794
+    second: MatchaProjectile_Spritesheet_40
+  - first:
+      213: 6191677598278504238
+    second: MatchaProjectile_Spritesheet_41
+  - first:
+      213: 6238743654018151422
+    second: MatchaProjectile_Spritesheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MatchaProjectile_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1922
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c462b72d97290220800000000000000
+      internalID: 2452535028009297090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchaProjectile_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 0
+        width: 1922
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70d5160a3647b7b0800000000000000
+      internalID: -5208617229006548867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchaProjectile_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 0
+        width: 1922
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d855485e133606000800000000000000
+      internalID: 27130663719425421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ac38734a97bc9d84fb973b8178e0db99
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":1922.0,"y":1082.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MatchaProjectile_Spritesheet_0: 2452535028009297090
+      MatchaProjectile_Spritesheet_1: -5208617229006548867
+      MatchaProjectile_Spritesheet_2: 27130663719425421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

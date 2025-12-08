@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 594036f7b28f077479d039c218a8ed9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3554790557255712757
+    second: VampireProjectile_Spritesheet_0
+  - first:
+      213: -6808116841750214600
+    second: VampireProjectile_Spritesheet_1
+  - first:
+      213: 3191965435366097678
+    second: VampireProjectile_Spritesheet_2
+  - first:
+      213: -4755725210616150842
+    second: VampireProjectile_Spritesheet_3
+  - first:
+      213: 3170753572549531898
+    second: VampireProjectile_Spritesheet_4
+  - first:
+      213: -693707338000841658
+    second: VampireProjectile_Spritesheet_5
+  - first:
+      213: -4286579082524878099
+    second: VampireProjectile_Spritesheet_6
+  - first:
+      213: -8341554205038227615
+    second: VampireProjectile_Spritesheet_7
+  - first:
+      213: -5874278578984002310
+    second: VampireProjectile_Spritesheet_8
+  - first:
+      213: 2893600985412835563
+    second: VampireProjectile_Spritesheet_9
+  - first:
+      213: 379368760221872882
+    second: VampireProjectile_Spritesheet_10
+  - first:
+      213: 769668066649711863
+    second: VampireProjectile_Spritesheet_11
+  - first:
+      213: -2701334149581766762
+    second: VampireProjectile_Spritesheet_12
+  - first:
+      213: 6553300298290852841
+    second: VampireProjectile_Spritesheet_13
+  - first:
+      213: -1251299616800475620
+    second: VampireProjectile_Spritesheet_14
+  - first:
+      213: 2543546904745253019
+    second: VampireProjectile_Spritesheet_15
+  - first:
+      213: -7551551337561776901
+    second: VampireProjectile_Spritesheet_16
+  - first:
+      213: -3721828338842389357
+    second: VampireProjectile_Spritesheet_17
+  - first:
+      213: 3579293509825698829
+    second: VampireProjectile_Spritesheet_18
+  - first:
+      213: 8422970788534840645
+    second: VampireProjectile_Spritesheet_19
+  - first:
+      213: -942305047247829813
+    second: VampireProjectile_Spritesheet_20
+  - first:
+      213: 6961255573885639720
+    second: VampireProjectile_Spritesheet_21
+  - first:
+      213: -5536358723774197374
+    second: VampireProjectile_Spritesheet_22
+  - first:
+      213: 7454054489479247038
+    second: VampireProjectile_Spritesheet_23
+  - first:
+      213: 3797709098018891640
+    second: VampireProjectile_Spritesheet_24
+  - first:
+      213: -931055943101660257
+    second: VampireProjectile_Spritesheet_25
+  - first:
+      213: -8992627936220897192
+    second: VampireProjectile_Spritesheet_26
+  - first:
+      213: -3845775436144982507
+    second: VampireProjectile_Spritesheet_27
+  - first:
+      213: -4650960068653363934
+    second: VampireProjectile_Spritesheet_28
+  - first:
+      213: 169876140642622300
+    second: VampireProjectile_Spritesheet_29
+  - first:
+      213: -5043665346787827612
+    second: VampireProjectile_Spritesheet_30
+  - first:
+      213: -5020490916023128546
+    second: VampireProjectile_Spritesheet_31
+  - first:
+      213: 8816822732745924679
+    second: VampireProjectile_Spritesheet_32
+  - first:
+      213: 2022090024517458219
+    second: VampireProjectile_Spritesheet_33
+  - first:
+      213: 2295014136596411943
+    second: VampireProjectile_Spritesheet_34
+  - first:
+      213: -6649056230599889301
+    second: VampireProjectile_Spritesheet_35
+  - first:
+      213: 1407057859944461874
+    second: VampireProjectile_Spritesheet_36
+  - first:
+      213: 66721425953956683
+    second: VampireProjectile_Spritesheet_37
+  - first:
+      213: 7902887300769571801
+    second: VampireProjectile_Spritesheet_38
+  - first:
+      213: -489995549596952560
+    second: VampireProjectile_Spritesheet_39
+  - first:
+      213: 5332655302512177361
+    second: VampireProjectile_Spritesheet_40
+  - first:
+      213: -8380875178322201623
+    second: VampireProjectile_Spritesheet_41
+  - first:
+      213: -5829090247000149041
+    second: VampireProjectile_Spritesheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VampireProjectile_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1922
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004cdf72d8daaec0800000000000000
+      internalID: -3554790557255712757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireProjectile_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 0
+        width: 1922
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838cf1aadc5b481a0800000000000000
+      internalID: -6808116841750214600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireProjectile_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 0
+        width: 1922
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e034256d6a32c4c20800000000000000
+      internalID: 3191965435366097678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VampireProjectile_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 5766
+        y: 0
+        width: 1922
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4cadb2e15400eb0800000000000000
+      internalID: -4755725210616150842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0eb3061de00d58542824385275f5b3b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":1922.0,"y":1082.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      VampireProjectile_Spritesheet_0: -3554790557255712757
+      VampireProjectile_Spritesheet_1: -6808116841750214600
+      VampireProjectile_Spritesheet_2: 3191965435366097678
+      VampireProjectile_Spritesheet_3: -4755725210616150842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
